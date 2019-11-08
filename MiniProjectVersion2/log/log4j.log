@@ -1,0 +1,106 @@
+2019-10-29 15:38:19 INFO  EmployeeLoginDaoImpl:39 - DAO Login Validated
+2019-10-29 15:38:32 INFO  CoordinatorRoleDAOImpl:220 - Retrived ALL Training Programs from DAO
+2019-10-29 15:40:04 INFO  EmployeeLoginDaoImpl:39 - DAO Login Validated
+2019-10-29 15:40:12 INFO  CoordinatorRoleDAOImpl:251 - Training Program retrieved with the given id
+2019-10-29 15:59:23 INFO  EmployeeLoginDaoImpl:39 - DAO Login Validated
+2019-10-29 15:59:27 INFO  CoordinatorRoleDAOImpl:493 - Retrieved all defaulters Report from DAO
+2019-10-29 15:59:51 INFO  EmployeeLoginDaoImpl:39 - DAO Login Validated
+2019-10-29 16:00:10 INFO  TrainingAdminRoleDAOImpl:71 - Faculty added
+2019-10-29 16:00:19 INFO  TrainingAdminRoleDAOImpl:327 - Defaulters retrieved
+2019-10-29 16:00:40 INFO  TrainingAdminRoleDAOImpl:292 - Report generated
+2019-10-29 16:00:51 INFO  TrainingAdminRoleDAOImpl:268 - Average report generated
+2019-10-29 16:01:09 INFO  EmployeeLoginDaoImpl:39 - DAO Login Validated
+2019-10-29 16:01:16 INFO  CoordinatorRoleDAOImpl:458 - Got All faculty Report from DAO
+2019-10-29 16:03:59 INFO  EmployeeLoginDaoImpl:39 - DAO Login Validated
+2019-10-29 16:04:01 INFO  CoordinatorRoleDAOImpl:493 - Retrieved all defaulters Report from DAO
+2019-10-29 16:04:06 INFO  CoordinatorRoleDAOImpl:458 - Got All faculty Report from DAO
+2019-10-29 16:04:09 INFO  CoordinatorRoleDAOImpl:434 - Retrived Feedback Average from DAO
+2019-10-29 16:28:46 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 16:28:47 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:28:47 INFO  TrainingAdminRoleDAOImpl:259 - Course Removed
+2019-10-29 16:28:47 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:28:47 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:28:47 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:29:53 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 16:29:53 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:29:53 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:29:53 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:30:33 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 16:30:33 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:30:33 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:30:33 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:33:44 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 16:33:44 INFO  TrainingAdminRoleDAOImpl:263 - Course could not be removed
+2019-10-29 16:33:44 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:33:44 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:33:44 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:34:14 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 16:34:14 INFO  TrainingAdminRoleDAOImpl:263 - Course could not be removed
+2019-10-29 16:34:14 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:34:14 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:34:14 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:34:45 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 16:34:45 INFO  TrainingAdminRoleDAOImpl:263 - Course could not be removed
+2019-10-29 16:34:45 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:34:45 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:34:45 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:36:25 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 16:36:26 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:36:26 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:36:26 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:52:15 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 16:52:15 INFO  TrainingAdminRoleDAOImpl:116 - Course Added from DAO
+2019-10-29 16:52:15 ERROR TrainingAdminRoleDAOImpl:131 - java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (HR.SYS_C007306) violated
+
+2019-10-29 16:52:15 ERROR TrainingAdminRoleDAOImpl:254 - java.sql.SQLIntegrityConstraintViolationException: ORA-02292: integrity constraint (HR.SYS_C007309) violated - child record found
+
+2019-10-29 16:52:15 INFO  TrainingAdminRoleDAOImpl:263 - Course could not be removed
+2019-10-29 16:52:15 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:52:15 INFO  TrainingAdminRoleDAOImpl:116 - Course Added from DAO
+2019-10-29 16:52:15 INFO  TrainingAdminRoleDAOImpl:259 - Course Removed
+2019-10-29 16:52:15 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:52:15 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:52:15 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:53:15 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 16:53:15 INFO  TrainingAdminRoleDAOImpl:116 - Course Added from DAO
+2019-10-29 16:53:15 INFO  TrainingAdminRoleDAOImpl:259 - Course Removed
+2019-10-29 16:53:15 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:53:15 INFO  TrainingAdminRoleDAOImpl:116 - Course Added from DAO
+2019-10-29 16:53:15 INFO  TrainingAdminRoleDAOImpl:259 - Course Removed
+2019-10-29 16:53:15 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:53:15 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:53:15 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:53:44 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 16:53:44 INFO  TrainingAdminRoleDAOImpl:116 - Course Added from DAO
+2019-10-29 16:53:44 INFO  TrainingAdminRoleDAOImpl:259 - Course Removed
+2019-10-29 16:53:44 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:53:44 INFO  TrainingAdminRoleDAOImpl:116 - Course Added from DAO
+2019-10-29 16:53:44 INFO  TrainingAdminRoleDAOImpl:259 - Course Removed
+2019-10-29 16:53:44 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:53:44 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:53:44 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:55:24 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 16:55:24 INFO  EmployeeLoginDaoImpl:47 - DAO Login Validated
+2019-10-29 16:55:24 INFO  EmployeeLoginDaoImpl:47 - DAO Login Validated
+2019-10-29 16:55:24 INFO  TrainingAdminRoleDAOImpl:116 - Course Added from DAO
+2019-10-29 16:55:24 INFO  TrainingAdminRoleDAOImpl:259 - Course Removed
+2019-10-29 16:55:24 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:55:24 INFO  TrainingAdminRoleDAOImpl:116 - Course Added from DAO
+2019-10-29 16:55:24 INFO  TrainingAdminRoleDAOImpl:259 - Course Removed
+2019-10-29 16:55:24 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 16:55:24 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 16:55:24 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 17:03:15 INFO  EmployeeLoginDaoImpl:47 - DAO Login Validated
+2019-10-29 17:03:18 INFO  CoordinatorRoleDAOImpl:475 - Got All faculty Report from DAO
+2019-10-29 17:03:34 INFO  CoordinatorRoleDAOImpl:268 - Training Program retrieved with the given id
+2019-10-29 17:03:34 INFO  EmployeeLoginDaoImpl:47 - DAO Login Validated
+2019-10-29 17:03:34 INFO  EmployeeLoginDaoImpl:47 - DAO Login Validated
+2019-10-29 17:03:34 INFO  TrainingAdminRoleDAOImpl:116 - Course Added from DAO
+2019-10-29 17:03:34 INFO  TrainingAdminRoleDAOImpl:259 - Course Removed
+2019-10-29 17:03:34 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 17:03:34 INFO  CoordinatorRoleDAOImpl:475 - Got All faculty Report from DAO
+2019-10-29 17:03:34 INFO  TrainingAdminRoleDAOImpl:116 - Course Added from DAO
+2019-10-29 17:03:34 INFO  TrainingAdminRoleDAOImpl:259 - Course Removed
+2019-10-29 17:03:34 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
+2019-10-29 17:03:35 INFO  TrainingAdminRoleDAOImpl:191 - Course retrieved Throuh DAO
+2019-10-29 17:03:35 INFO  TrainingAdminRoleDAOImpl:194 - Course not retrieved throuh DAO
